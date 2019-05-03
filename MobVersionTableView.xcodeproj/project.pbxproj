@@ -47,7 +47,7 @@
 		10F9145C2278AACF00768D92 /* MobVersionTableViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobVersionTableViewTests.swift; sourceTree = "<group>"; };
 		10F9145E2278AACF00768D92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		10F914632278AACF00768D92 /* MobVersionTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MobVersionTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		10F914672278AACF00768D92 /* MobVersionTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobVersionTableViewUITests.swift; sourceTree = "<group>"; };
+		10F914672278AACF00768D92 /* MobVersionTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobVersionTableViewUITests.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.xcconfig; };
 		10F914692278AACF00768D92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		10F914752278B99600768D92 /* VesionTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VesionTableViewController.swift; sourceTree = "<group>"; };
 		10F914772278BA1000768D92 /* MobVersion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobVersion.swift; sourceTree = "<group>"; };

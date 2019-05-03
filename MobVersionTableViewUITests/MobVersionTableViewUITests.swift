@@ -5,7 +5,6 @@
 //  Created by Kibur on 5/02/19.
 //  Copyright © 2019 Kibur. All rights reserved.
 //
-
 import XCTest
 
 class MobVersionTableViewUITests: XCTestCase {
